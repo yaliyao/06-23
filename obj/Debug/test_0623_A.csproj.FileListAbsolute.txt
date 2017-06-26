@@ -1,0 +1,114 @@
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\ApplicationInsights.config
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\csc.exe
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\vbc.exe
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\VBCSCompiler.exe
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\test_0623_A.dll.config
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\test_0623_A.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\test_0623_A.pdb
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.Web.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.ApplicationInsights.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Helpers.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Mvc.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Razor.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.Deployment.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.Razor.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.Web.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.ApplicationInsights.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Razor.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.Deployment.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Webpages.Razor.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Helpers.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\System.Web.Mvc.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Razor.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Helpers.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Mvc.resources.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\obj\Debug\test_0623_A.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\obj\Debug\test_0623_A.pdb
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\EntityFramework.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\EntityFramework.SqlServer.dll
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\EntityFramework.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\EntityFramework.SqlServer.xml
+c:\users\mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Mac\documents\visual studio 2015\Projects\test_0623_A\test_0623_A\obj\Debug\test_0623_A.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\ApplicationInsights.config
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\csc.exe
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\vbc.exe
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\test_0623_A.dll.config
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\test_0623_A.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\test_0623_A.pdb
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\EntityFramework.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\EntityFramework.SqlServer.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.Web.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Helpers.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Mvc.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Razor.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\EntityFramework.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\EntityFramework.SqlServer.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.Web.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Razor.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Helpers.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\System.Web.Mvc.xml
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\obj\Debug\test_0623_A.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\obj\Debug\test_0623_A.dll
+C:\Users\Mac\Desktop\test_0623_A\test_0623_A\obj\Debug\test_0623_A.pdb
